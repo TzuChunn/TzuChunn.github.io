@@ -40,7 +40,7 @@ startCoding(mission);
 ## 聯絡方式 (Contact)
 Email: [你的電子信箱]@email.com
 
-GitHub: @你的帳號
+GitHub: @Tzuchunn
 
 ## 目前狀態 (System_Log)
 任務,進度,狀態
