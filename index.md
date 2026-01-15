@@ -35,3 +35,14 @@ function startCoding(msg) {
   console.log("> " + msg);
 }
 startCoding(mission);
+
+## 聯絡方式 (Contact)
+Email: [你的電子信箱]@email.com
+
+GitHub: @你的帳號
+
+## 目前狀態 (System_Log)
+任務,進度,狀態
+學習 GitHub,80%,進行中
+部署網頁,100%,已完成
+精通 CSS,40%,努力中
