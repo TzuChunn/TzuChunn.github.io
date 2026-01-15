@@ -1,123 +1,37 @@
 ---
 layout: default
+title: 我的數位基地
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# > 歡迎來到 $USER 的終端機
 
-[Link to another page](./another-page.html).
+> 正在連線至伺服器... 
+> [狀態：連線成功]
 
-There should be whitespace between paragraphs.
+你好！我是 **[你的名字]**。我是一名對技術充滿熱情的網頁開發者。我喜歡把複雜的問題轉化為簡潔的程式碼，並在深夜裡享受鍵盤敲擊的節奏。
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+### ## 核心技能 (Core_Skills)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* **前端開發**：HTML5, CSS3, JavaScript (ES6+)
+* **工具**：Git / GitHub, VS Code
+* **其他**：Markdown 寫作, 靜態網站部署
 
-## Header 2
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### ## 專案展示 (Projects)
 
-### Header 3
+#### 1. 我的個人網站
+這是你現在看到的網站，使用 **Jekyll** 引擎與 **Hacker** 主題建置，部署於 **GitHub Pages**。
+* [查看源碼](https://github.com/你的帳號/你的專案)
+
+#### 2. 測試範例程式碼
+這是我最近在練習的 JavaScript 邏輯：
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
+const mission = "Hello World";
+function startCoding(msg) {
+  console.log("> " + msg);
 }
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+startCoding(mission);
