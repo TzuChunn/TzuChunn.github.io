@@ -3,7 +3,7 @@ layout: default
 title: 我的數位基地
 ---
 
-# > 歡迎來到 $TzuChun 的終端機
+# > 歡迎來到 TzuChun 的終端機
 
 > 正在連線至伺服器... 
 > [狀態：連線成功]
@@ -14,7 +14,7 @@ title: 我的數位基地
 
 ### ## 核心技能 (Core_Skills)
 
-* **前端開發**：HTML5, CSS3, JavaScript (ES6+)
+* **前端開發**：Python
 * **工具**：Git / GitHub, VS Code
 * **其他**：Markdown 寫作, 靜態網站部署
 
@@ -24,7 +24,7 @@ title: 我的數位基地
 
 #### 1. 我的個人網站
 這是你現在看到的網站，使用 **Jekyll** 引擎與 **Hacker** 主題建置，部署於 **GitHub Pages**。
-* [查看源碼](https://github.com/tzuchunn)
+* [Github](https://github.com/tzuchunn)
 
 #### 2. 測試範例程式碼
 這是我最近在練習的 JavaScript 邏輯：
